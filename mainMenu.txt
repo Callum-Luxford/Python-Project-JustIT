@@ -1,0 +1,8 @@
+filmflix Main Menu Options
+Enter:
+1. Print all films
+2. Add a film
+3. Update a film
+4. Delete a film
+5. Search report
+6. To exit.
